@@ -1,5 +1,5 @@
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     actionmailer (4.0.1)
       actionpack (= 4.0.1)
@@ -114,7 +114,7 @@ DEPENDENCIES
   mysql2
   pg
   rails (= 4.0.1)
-  rake
+  rake (~> 10.4.2)
   sass-rails (~> 4.0.0)
   sdoc
   turbolinks
