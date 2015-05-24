@@ -114,6 +114,7 @@ DEPENDENCIES
   mysql2
   pg
   rails (= 4.0.1)
+  rake (~> 10.4.2)
   sass-rails (~> 4.0.0)
   sdoc
   turbolinks
