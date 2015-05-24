@@ -25,10 +25,10 @@ test:
   host: localhost
 
 production:
-  adapter: mysql2  
+  adapter: postgresql 
   encoding: utf8
-  database: blog_prod
+  database: d761s5gproscd2
   pool: 5
-  username: root
-  password: "root"
-  host: localhost
+  username: crybkupoocpkjc
+  password: "cmgcpgk4RM4zsZ4ppL8kM1ZgiA"
+  host: ec2-23-23-81-221.compute-1.amazonaws.com
